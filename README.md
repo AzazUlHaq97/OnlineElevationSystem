@@ -18,4 +18,12 @@ The newly created web application D’Hellas ensures all the requirements of the
 ######	- SQL Server [DBMS]
 ######	- HTML, CSS, JavaScript, Bootstrap [Front-end Technology]
 
-![This is an image](/Screenshots/HomePage.png)
+##  Screenshots:
+### Home Page:
+![This is an image](/Screenshots/DropDownLogin.png)
+
+### Final Order Placement:
+![This is an image](/Screenshots/UserLogin/OrderProcess/4.png)
+
+### Admin Panel Look:
+![This is an image](/Screenshots/AdminPanel/AdminPanelSS.png)
