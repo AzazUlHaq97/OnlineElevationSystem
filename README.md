@@ -7,8 +7,8 @@ The company already has website which is being in used since last 15 years, now 
 
 ## SOLUTION:
 The newly created website D’Hellas ensures all the requirements of the Company are being fulfilled. A proper website is created with some major features:
-•	Responsive User-friendly Website
-•	Online Orders for Latest Elevation Projects
-•	Users Valuable Feedback
-•	Users Complain about the Ordered Elevation Project
-•	Responsive Admin Panel to Access the whole D’Hellas Website
+######	Responsive User-friendly Website
+######	Online Orders for Latest Elevation Projects
+######	Users Valuable Feedback
+######	Users Complain about the Ordered Elevation Project
+######	Responsive Admin Panel to Access the whole D’Hellas Website
