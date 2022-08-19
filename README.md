@@ -7,7 +7,7 @@ The company already has website which is being in used since last 15 years, now 
 
 ## PROPOSED SOLUTION:
 The newly created web application D’Hellas ensures all the requirements of the Company are being fulfilled. A proper website is created with some major features:
-- ![#f03c15](Rersd) `#f03c15`
+
 ######	- Responsive User-friendly Website
 ######	- Online Orders for Latest Elevation Projects
 ######	- Users Valuable Feedback
